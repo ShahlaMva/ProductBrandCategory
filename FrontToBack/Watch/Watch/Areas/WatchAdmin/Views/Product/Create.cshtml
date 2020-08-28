@@ -1,0 +1,45 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="row" style="width:1090px;margin-left:275px;">
+    <div class="col-12">
+        <form method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="@Model.BrandCategory.Category.CategoryName" class="d-block mt-3"></label>
+                <select asp-for="@Model.BrandCategory.CategoryId" asp-items="@ViewBag.Categories"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.BrandCategory.Brand.BrandName" class="d-block mt-3"></label>
+                <select asp-for="@Model.BrandCategory.BrandId" asp-items="@ViewBag.Brands"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="d-block mt-3"></label>
+                <input asp-for="Name" autocomplete="off" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="d-block mt-3"></label>
+                <input asp-for="Price" autocomplete="off" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Count" class="d-block mt-3"></label>
+                <input asp-for="Count" autocomplete="off" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="d-block mt-3"></label>
+                <input asp-for="Description" autocomplete="off" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Photo" class="d-block mt-3"></label>
+                <input asp-for="Photo" autocomplete="off" class="form-control" />
+                <span asp-validation-for="Photo" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn-primary">
+                Create
+            </button>
+
+        </form>
+    </div>
+</div>
+

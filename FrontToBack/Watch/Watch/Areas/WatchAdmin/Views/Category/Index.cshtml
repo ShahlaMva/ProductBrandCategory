@@ -1,0 +1,53 @@
+﻿@*@model IEnumerable<Category>
+@{
+    ViewData["Title"] = "Index";
+}*@
+
+    <div class="col-12 col-lg-auto mt-3 d-block">
+        <div class="page-heading">
+            <div class="box-head">
+                <a href="Create" class="button button-outline btn btn-primary" style="margin-left:275px;"><span>Create</span></a>
+            </div>
+
+        </div>
+        <table class="table table-dark" style="width:1000px;margin-left:275px;">
+
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Category Name</th>
+                    <th scope="col">Options</th>
+
+
+
+                </tr>
+            </thead>
+            @*<tbody>
+                @{ int count = 0;
+                    foreach (var category in Model)
+                    {
+                        count++;
+                        <tr>
+                            <th scope="row">@count</th>
+                            <td>@category.CategoryName</td>
+
+                            <td>
+                                <a asp-action="Delete" asp-route-id="@category.Id"><i class="pe-7s-trash"></i></a>
+                                <a href="#"><i class="pe-7s-look"></i></a>
+                                <a href="#"><i class="pe-7s-pen"></i></a>
+                            </td>
+
+
+
+
+                        </tr>
+                    }
+
+
+                }*@
+            </tbody>
+        </table>
+
+
+
+

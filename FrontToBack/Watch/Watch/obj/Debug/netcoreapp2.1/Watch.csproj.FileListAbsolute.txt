@@ -1,0 +1,67 @@
+C:\Users\Code\Desktop\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.deps.json
+C:\Users\Code\Desktop\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.runtimeconfig.json
+C:\Users\Code\Desktop\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.runtimeconfig.dev.json
+C:\Users\Code\Desktop\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.dll
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.RazorAssemblyInfo.cache
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.RazorAssemblyInfo.cs
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.AssemblyInfo.cs
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.TagHelpers.input.cache
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.TagHelpers.output.cache
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.RazorCoreGenerate.cache
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.RazorTargetAssemblyInfo.cache
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.RazorTargetAssemblyInfo.cs
+C:\Users\Code\Desktop\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.pdb
+C:\Users\Code\Desktop\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.Views.dll
+C:\Users\Code\Desktop\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.Views.pdb
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.Views.pdb
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.dll
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.pdb
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.csproj.CopyComplete
+C:\Users\Code\Desktop\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.deps.json
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.runtimeconfig.json
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.runtimeconfig.dev.json
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.dll
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.pdb
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.Views.dll
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\bin\Debug\netcoreapp2.1\Watch.Views.pdb
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.RazorAssemblyInfo.cache
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.RazorAssemblyInfo.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.AssemblyInfo.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.TagHelpers.input.cache
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.TagHelpers.output.cache
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.RazorCoreGenerate.cache
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.RazorTargetAssemblyInfo.cache
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.RazorTargetAssemblyInfo.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.Views.pdb
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.dll
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.pdb
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Watch.csproj.CopyComplete
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\_ViewImports.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\_ViewStart.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\DashBoard\Index.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\Slider\Index.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\Slider\Delete.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\Slider\Create.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\Slider\Update.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\Category\Index.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\Category\Create.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\Category\Delete.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\Product\Index.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\Product\Create.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\Product\Delete.g.cshtml.cs
+C:\Users\Code\Desktop\P116\Asp .Net Core\07.08.2020-AspFrontToBack\FrontToBack\Watch\Watch\obj\Debug\netcoreapp2.1\Razor\Areas\WatchAdmin\Views\Product\Update.g.cshtml.cs
